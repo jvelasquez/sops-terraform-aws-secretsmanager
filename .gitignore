@@ -1,0 +1,8 @@
+# Ignore all our Decoded Secrets
+
+# secrets.dec.*
+
+# Ignore Terraform related stuff
+
+.terraform/*
+*.tfstate
