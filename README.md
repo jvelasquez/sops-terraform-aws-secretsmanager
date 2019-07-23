@@ -1,0 +1,1 @@
+# sops-terraform-aws-secretsmanager
